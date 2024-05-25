@@ -5,7 +5,7 @@
 
 body {
     width: 100%;
-    height: 95vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -50,7 +50,7 @@ body {
 
 .card_desc h1 {
     font-size: 24px;
-    font-weight: 550;
+    font-weight: 500;
     font-family:'poppins';
 }
 
